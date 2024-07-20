@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="App">
       <StudentCard 
-        name="Balireddy MahaLakshmi" 
-        registrationNumber="212221240008"
+        name="G Venkata Pavan Kumar" 
+        registrationNumber="212221240013"
         photo={ReactLogo}
       />
     </div>

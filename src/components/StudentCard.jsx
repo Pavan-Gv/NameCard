@@ -14,7 +14,7 @@ const StudentCard = ({ name, registrationNumber, photo }) => {
       <Info>
         <Name>{name}</Name>
         <RegNumber>{registrationNumber}</RegNumber>
-        {isVisible && <AdditionalContent>I'm Mahalakshmi from 4th Year Artificial Intelligence and Machine Learning.</AdditionalContent>}
+        {isVisible && <AdditionalContent>I'm Pavan from 4th Year Artificial Intelligence and Machine Learning.</AdditionalContent>}
         <ToggleButton onClick={toggleVisibility}>
           {isVisible ? 'Hide Details' : 'Show Details'}
         </ToggleButton>

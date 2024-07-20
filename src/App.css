@@ -1,7 +1,7 @@
 @keyframes animateBackground {
-  0% { background-color: #e0ebbd; }
-  50% { background-color: #def2b2; }
-  100% { background-color: #d0f065; }
+  0% { background-color: #bbdfdf; }
+  50% { background-color: #aff6f1; }
+  100% { background-color: #65ddf0; }
 }
 
 .App {
